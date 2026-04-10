@@ -17,3 +17,4 @@ uvicorn main:app --reload
 ## การเพิ่ม Seeding ข้อมูล
 python seed.py
   test
+rfdsgfdbgfdsbtdbfdnfg
